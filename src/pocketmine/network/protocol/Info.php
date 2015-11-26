@@ -86,6 +86,7 @@ interface Info{
 	//const SET_PLAYER_GAMETYPE_PACKET = 0xc2;
 	const PLAYER_LIST_PACKET = 0xc3;
 	//const TELEMETRY_EVENT_PACKET = 0xc4;
+	const TILE_EVENT_PACKET = 0xa3;
 
 }
 
